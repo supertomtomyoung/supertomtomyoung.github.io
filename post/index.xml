@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tomtomyoung Blog 🧐</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Tomtomyoung Blog 🧐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>tomtomyoung</copyright>
+    <lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/post/test/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test/</guid>
+      <description>1. Emoji 🍰 2. Code 1let a = 1; 2let b = 2; 3 4// 实例对象上会有name age属性，play方法 5function Person(name, age) { 6 this.name = name; 7 this.age = age; 8 this.play = function () { }; 9} 10// 原型对象上会有方法 11Person.prototype.sleep =</description>
+    </item>
+    
+  </channel>
+</rss>
